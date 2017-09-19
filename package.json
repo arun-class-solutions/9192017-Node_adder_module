@@ -1,0 +1,23 @@
+{
+  "name": "allmethods",
+  "version": "1.0.0",
+  "description": "Methods to add and subtract numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-class-solutions/9192017-Node_adder_module.git"
+  },
+  "author": "Arun Sood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-class-solutions/9192017-Node_adder_module/issues"
+  },
+  "homepage": "https://github.com/arun-class-solutions/9192017-Node_adder_module#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
